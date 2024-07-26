@@ -2,7 +2,7 @@
 A python program designed for simplicity. User is able to select basic food and household items for delivery. 
 ## Installation 
 make sure that Python 3 or later is installed.
-Please visit [https://www.python.org] to find the current version
+Please visit https://www.python.org to find the current version
 
 ## The Reason Why
 the purpose of this program is to ease the process of ordering basic goods to an impacted population.
@@ -10,7 +10,7 @@ The target audience is for the elderly, or those on the spectrum, or some type o
 The program is very intuitive, simplistic, and deliveres a receiept after order completion
 
 ## User Input
-Very straight forewart to make choice options and quantity selection. Methods are in place for 
+Very straight foreward to make choice options and quantity selection. Methods are in place for 
 incorrect input, so please be sure to read the options carefully.
 
 ## To Run the code
